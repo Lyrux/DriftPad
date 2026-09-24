@@ -1,6 +1,8 @@
 #ifndef ENCODER_H
 #define ENCODER_H
 
+#include <cstdint>
+
 /**
  * @file encoder.h
  * @brief Header file for the Encoder class.
