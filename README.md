@@ -79,7 +79,7 @@ A planned organization is:
 ```text
 hardware/
 ├── kicad/
-├── mechanical/
+└── mechanical/
     ├── stl/
     └── step/
 ```
