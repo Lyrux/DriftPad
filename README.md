@@ -80,9 +80,8 @@ A planned organization is:
 hardware/
 ├── kicad/
 ├── mechanical/
-│   ├── stl/
-│   └── step/
-└── manufacturing/
+    ├── stl/
+    └── step/
 ```
 
 ## Hardware Platform
